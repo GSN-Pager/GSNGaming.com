@@ -4220,7 +4220,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=139;
+		items=131;
 		class Item0
 		{
 			position[]={4159.9268,16.758411,4164.5854};
@@ -5337,63 +5337,6 @@ class Mission
 			name="milSpawn_5";
 			type="Empty";
 			colorName="ColorGreen";
-		};
-		class Item131
-		{
-			position[]={4029.14,29.885355,6375.30};
-			name="GunStore3_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
-		};
-		class Item132
-		{
-			position[]={1936.33,39.444572,4850.51};
-			name="GunStore2_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
-		};
-		class Item133
-		{
-			position[]={4552.89,18.668159,3816.83};
-			name="GunStore1_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
-		};
-		class Item134
-		{
-			position[]={4028.88,15.327517,2122.93};
-			name="GunStore4_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
-		};
-		class Item135
-		{
-			position[]={2783.78,6.255465,1841.98};
-			name="GenStore1_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
-			angle=-110.31951;
-		};
-		class Item136
-		{
-			position[]={3849.29,15.940052,4307.32};
-			name="GenStore2_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
-		};
-		class Item137
-		{
-			position[]={2725.44,37.695599,5132.97};
-			name="GenStore3_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
-		};
-		class Item138
-		{
-			position[]={5067.25,29.165218,6086.01};
-			name="GenStore4_objSpawn";
-			type="Empty";
-			colorName="ColorBlack";
 		};
 	};
 	class Sensors
